@@ -20,5 +20,5 @@ Learning step by step, building projects, and improving every day. Also learning
 - Prepare for internships & future work in Japan
 
 ## 📫 Contact
-- Email: [your_email@example.com]
+- Email: [mritunjoybrahma12345@gmail.com]
 - GitHub: [https://github.com/Mritunjoy](https://github.com/Mritunjoy)
