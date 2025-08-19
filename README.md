@@ -1,24 +1,26 @@
+<!-- Banner -->
 <p align="center">
   <img src="banner (2).jpeg" width="100%" alt="Banner"/>
 </p>
 
+<!-- Profile Picture -->
 <p align="center">
-  <img src="Me.png" width="180" height="180" style="border-radius:50%; border: 3px solid #ff66b2;" alt="Profile Picture"/>
+  <img src="Me.png" width="220" height="220" style="border-radius:50%; border: 4px solid #ff4da6;" alt="Profile Picture"/>
 </p>
 
-<h1 align="center"> Mritunjoy Brahma </h1>
-
+<!-- Name & Tagline -->
+<h1 align="center">🌸 Mritunjoy Brahma 🌸</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=✨+Dreaming+of+Japan+🇯🇵;💻+Exploring+Code+%26+Creativity;🎮+Gaming+%7C+Editing+%7C+Designing" alt="Typing SVG" />
+  ✨ Dreaming of Japan 🇯🇵 | Exploring Code & Creativity ✨
 </p>
 
 ---
 
 ## 🌸 About Me  
-Japan has always been the land of my dreams, where I'd love to build a career that combines **creativity and innovation**.  
-I'm deeply fascinated by the **culture, language, and artistic vibes**.  
-Currently learning **Japanese**, along with **C++ and HTML/CSS**.  
-I also love playing **story games on PC** and doing **After Effects edits**.  
+- Japan has always been the **land of my dreams**, where I'd love to build a career combining **creativity and innovation**.  
+- Fascinated by **culture, language, and artistic vibes**.  
+- Currently learning **Japanese**, along with **C++ and HTML/CSS**.  
+- Love playing **story games on PC** and creating **After Effects edits**.  
 
 ---
 
@@ -34,21 +36,37 @@ I also love playing **story games on PC** and doing **After Effects edits**.
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.instagram.com/_mr1tun_?igsh=dHp2MmxnZnpmejM="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="http://www.youtube.com/@THEmrit"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_mr1tun_?igsh=dHp2MmxnZnpmejM=" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="http://www.youtube.com/@THEmrit" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="mailto:mritunjoybrahma12345@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-
-📍 **Location:** Assam, Kokrajhar, India  
-📧 **Contact:** mritunjoybrahma12345@gmail.com  
-💻 **Languages I know:** HTML/CSS, C++, learning Japanese  
-🎮 **Other Interests:** PC story games, After Effects editing  
 
 ---
 
-## 📊 GitHub Stats  
+## 📍 Personal Info  
+- **Location:** Assam, Kokrajhar, India  
+- **Contact:** mritunjoybrahma12345@gmail.com  
+- **Languages I know:** HTML/CSS, C++, learning Japanese  
+- **Other Interests:** PC story games 🎮, After Effects editing 🎬  
+
+---
+
+## 🎯 Future Goals  
+- Become fluent in **Japanese** 🇯🇵  
+- Build a career combining **design + technology**  
+- Create projects that bring **creativity and innovation** together  
+- Travel & work in **Japan** one day 🌏  
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mritunjoy&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mritunjoy&layout=compact&theme=tokyonight" height="160"/>
+  🌸 *Taking it step by step, focused on turning my dream into reality.* 🌸
 </p>
 
 <p align="center">
