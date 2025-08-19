@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="banner.jpeg" width="100%" alt="Banner"/>
+  <img src="banner (2).jpeg" width="100%" alt="Banner"/>
 </p>
 
 <p align="center">
-  <img src="pfp.jpeg" width="150" height="150" style="border-radius:50%;" alt="Profile Picture"/>
+  <img src="Me.png" width="150" height="150" style="border-radius:50%;" alt="Profile Picture"/>
 </p>
 
 <h1 align="center">Mritunjoy Brahma</h1>
-<h3 align="center">Dreaming of Japan 🇯🇵 | Exploring code & creativity</h3>
+<h3 align="center">✨ Dreaming of Japan 🇯🇵 | Exploring Code & Creativity ✨</h3>
 
 ---
 
@@ -24,6 +24,13 @@ Love playing **story games on PC** and doing **After Effects edits**.
   <a href="https://www.instagram.com/_mr1tun_?igsh=dHp2MmxnZnpmejM="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="http://www.youtube.com/@THEmrit"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
+
+---
+
+📍 **Location:** Assam, Kokrajhar, India  
+📧 **Contact:** mritunjoybrahma12345@gmail.com  
+💻 **Languages I know:** HTML/CSS, C++, learning Japanese  
+🎮 **Other Interests:** PC story games, After Effects editing  
 
 ---
 
