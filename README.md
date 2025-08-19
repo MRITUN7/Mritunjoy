@@ -80,19 +80,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr1tun&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
   🌸 *Taking it step by step, focused on turning my dream into reality.* 🌸
 </p>
 
 <!-- Bottom animated wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:8a2be2,100:ff77aa&section=footer" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mritunjoy&theme=tokyonight" height="180"/>
 </p>
 
