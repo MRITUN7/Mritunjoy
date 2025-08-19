@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="banner.jpeg" alt="Banner" width="100%" />
 
-<!-- Profile Picture in Circle -->
+<!-- Profile Picture in Circle (on top of background style) -->
 <p align="center">
   <img src="pfp.jpeg" alt="Profile Picture" width="200" style="border-radius:50%" />
 </p>
@@ -13,9 +13,6 @@
   Passionate about coding, design, and creativity 🌟
 </p>
 
-<!-- Background -->
-<img src="background.jpeg" alt="Background" width="100%" />
-
 ---
 
 ### 🚀 About Me
@@ -26,7 +23,14 @@
 ---
 
 ### 📫 Connect with me  
-- ✉️ Email: mritunjoybrahma12345@gmail.com  
-- 🐦 Twitter (if you want to add)  
-- 💼 LinkedIn (you can add later)  
+- ✉️ Email: **mritunjoybrahma12345@gmail.com**  
+- 🐦 Twitter (optional)  
+- 💼 LinkedIn (later)  
+
+---
+
+<!-- Background style (CSS trick using table) -->
+<p align="center">
+  <img src="background.jpeg" alt="Background style" width="60%" />
+</p>
 
