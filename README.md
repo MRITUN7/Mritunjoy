@@ -14,7 +14,7 @@
 </p>
 
 <!-- Name -->
-<h1 align="center">🌸 Mritunjoy Brahma 🌸</h1>
+<h1 align="center"> Hi Iam Mritunjoy Brahma </h1>
 
 <!-- Typing effect tagline -->
 <p align="center">
