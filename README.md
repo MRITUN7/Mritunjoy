@@ -9,7 +9,7 @@
 <h1 align="center">🌸 Mritunjoy Brahma 🌸</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=450&lines=✨+Dreaming+of+Japan+🇯🇵;💻+Exploring+Code+%26+Creativity;🎮+Gaming+%7C+Editing+%7C+Designing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=✨+Dreaming+of+Japan+🇯🇵;💻+Exploring+Code+%26+Creativity;🎮+Gaming+%7C+Editing+%7C+Designing" alt="Typing SVG" />
 </p>
 
 ---
@@ -55,8 +55,3 @@ I also love playing **story games on PC** and doing **After Effects edits**.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mritunjoy&theme=tokyonight" height="180"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mritunjoy&label=Profile%20Views&color=ff69b4&style=flat-square" alt="views"/>
-</p>
