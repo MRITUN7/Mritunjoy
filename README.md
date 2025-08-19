@@ -9,7 +9,7 @@
 </p>
 
 <!-- Name & Tagline -->
-<h1 align="center">🌸 Mritunjoy Brahma 🌸</h1>
+<h1 align="center"> Mritunjoy Brahma </h1>
 <p align="center">
   ✨ Dreaming of Japan 🇯🇵 | Exploring Code & Creativity ✨
 </p>
