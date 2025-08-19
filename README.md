@@ -6,7 +6,7 @@
   <img src="Me.png" width="180" height="180" style="border-radius:50%; border: 3px solid #ff66b2;" alt="Profile Picture"/>
 </p>
 
-<h1 align="center">🌸 Mritunjoy Brahma 🌸</h1>
+<h1 align="center"> Mritunjoy Brahma </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=✨+Dreaming+of+Japan+🇯🇵;💻+Exploring+Code+%26+Creativity;🎮+Gaming+%7C+Editing+%7C+Designing" alt="Typing SVG" />
