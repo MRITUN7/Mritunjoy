@@ -1,35 +1,32 @@
 <!-- Banner -->
+<img src="banner.jpeg" alt="Banner" width="100%" />
+
+<!-- Profile Picture in Circle -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MRITUN7/MRITUN7/main/banner.jpeg" alt="Banner" />
+  <img src="pfp.jpeg" alt="Profile Picture" width="200" style="border-radius:50%" />
 </p>
 
-<!-- Profile Picture -->
+<!-- Name and Bio -->
+<h1 align="center">Hi, I’m Mritunjoy 👋</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MRITUN7/MRITUN7/main/pfp.jpeg" alt="Profile Picture" width="150" style="border-radius:50%;" />
+  B.Tech Computer Science & Engineering student <br>
+  Passionate about coding, design, and creativity 🌟
 </p>
 
-<!-- Quote -->
-<h3 align="center">「 In the shadows, I create. 」</h3>
+<!-- Background -->
+<img src="background.jpeg" alt="Background" width="100%" />
 
 ---
 
-## 💜 About Me
-- 🎓 Student of **Design & Tech**
-- 🎭 Interested in **Acting, Voice Acting, Creativity**
-- 🌏 Dreaming of **Japan**
-- 🎮 Gamer | 🎨 Designer | 💻 Developer  
+### 🚀 About Me
+- 🎓 Currently pursuing **B.Tech in CSE**  
+- 💻 Love exploring **tech & design**  
+- 🌍 Based in Assam, India  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MRITUN7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+### 📫 Connect with me  
+- ✉️ Email: mritunjoybrahma12345@gmail.com  
+- 🐦 Twitter (if you want to add)  
+- 💼 LinkedIn (you can add later)  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MRITUN7&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRITUN7&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
