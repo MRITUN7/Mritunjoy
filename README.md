@@ -14,7 +14,7 @@
 </p>
 
 <!-- Name -->
-<h1 align="center"> Hi Iam Mritunjoy Brahma </h1>
+<h1 align="center"> Mritunjoy Brahma </h1>
 
 <!-- Typing effect tagline -->
 <p align="center">
@@ -38,12 +38,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010" />
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=101010" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/Developer.gif" width="50px" alt="dev gif"/>
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/Code.gif" width="50px" alt="code gif"/>
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/Handshake.gif" width="50px" alt="handshake gif"/>
 </p>
 
 ---
@@ -87,4 +81,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:8a2be2,100:ff77aa&section=footer" />
 </p>
-
